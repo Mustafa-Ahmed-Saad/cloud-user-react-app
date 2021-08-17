@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cloud-user-react-app/static/css/main.0f04cb19.chunk.css",
+    "main.js": "/cloud-user-react-app/static/js/main.0ba70e78.chunk.js",
+    "main.js.map": "/cloud-user-react-app/static/js/main.0ba70e78.chunk.js.map",
+    "runtime-main.js": "/cloud-user-react-app/static/js/runtime-main.22664961.js",
+    "runtime-main.js.map": "/cloud-user-react-app/static/js/runtime-main.22664961.js.map",
+    "static/js/2.fa8aaf0b.chunk.js": "/cloud-user-react-app/static/js/2.fa8aaf0b.chunk.js",
+    "static/js/2.fa8aaf0b.chunk.js.map": "/cloud-user-react-app/static/js/2.fa8aaf0b.chunk.js.map",
+    "static/js/3.d9180128.chunk.js": "/cloud-user-react-app/static/js/3.d9180128.chunk.js",
+    "static/js/3.d9180128.chunk.js.map": "/cloud-user-react-app/static/js/3.d9180128.chunk.js.map",
+    "index.html": "/cloud-user-react-app/index.html",
+    "static/css/main.0f04cb19.chunk.css.map": "/cloud-user-react-app/static/css/main.0f04cb19.chunk.css.map",
+    "static/js/2.fa8aaf0b.chunk.js.LICENSE.txt": "/cloud-user-react-app/static/js/2.fa8aaf0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22664961.js",
+    "static/js/2.fa8aaf0b.chunk.js",
+    "static/css/main.0f04cb19.chunk.css",
+    "static/js/main.0ba70e78.chunk.js"
+  ]
+}
